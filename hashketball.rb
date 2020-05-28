@@ -1,7 +1,7 @@
 # Write your code here!
 def game_h
   {
-    home : {
+    home: {
       team_name: "Brooklyun Nets",
       colors:["black", "White"],
       players: [
@@ -52,7 +52,7 @@ def game_h
           :slam_dunks => 1},
           ]
   },
-  away : {
+  away: {
       team_name: "Charlotte Hornets",
       colors:["Turquoise", "Purple"],
       players: [
