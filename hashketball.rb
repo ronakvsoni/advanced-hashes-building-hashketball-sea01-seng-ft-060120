@@ -1,7 +1,7 @@
 # Write your code here!
 def game_h
   {
-    hasket : {
+    home : {
       team_name: "Brooklyun Nets",
       colors:["black", "White"],
       players: [
