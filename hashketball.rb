@@ -52,7 +52,7 @@ def game_h
           :slam_dunks => 1},
           ]
   },
-  ball: {
+  away : {
       team_name: "Charlotte Hornets",
       colors:["Turquoise", "Purple"],
       players: [
